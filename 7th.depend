@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658883870 source:c:\users\gytech inc\onedrive\desktop\gtubay c codes\7th\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
